@@ -1,0 +1,21 @@
+body {
+    background-image: url("https://rickandmortypod.com/wp-content/uploads/2018/11/cropped-RM_page-header_background1-3.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+img {
+    border-radius: 50%;
+    width: 200px;
+}
+
+ul,
+li {
+    list-style: none;
+}
+
+.animados {
+    color: green;
+    font-size: 25px;
+}
